@@ -1,3 +1,3 @@
 void execute() {
-  print("Projeto Inicial");
+  print("Seja bem vindo!\nVamos calcular seu IMC!");
 }
