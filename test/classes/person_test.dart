@@ -1,4 +1,4 @@
-import 'package:bmi_calculator/classes/person.dart';
+import 'package:bmi_calculator/models/person.dart';
 import 'package:test/test.dart';
 
 abstract class Ptest {
